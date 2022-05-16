@@ -1,0 +1,662 @@
+<meta>
+	<script src="client.lua" type="client"/>
+	
+	<file src="ant_roofmast.col" type="client"/>
+	<file src="ant_roofmast.dff" type="client"/>
+	
+	<file src="ass_silo04.col" type="client"/>
+	<file src="ass_silo04.dff" type="client"/>
+	
+	<file src="berg1.col" type="client"/>
+	<file src="berg1.dff" type="client"/>
+	
+	<file src="bevman3_law2.col" type="client"/>
+	<file src="bevman3_law2.dff" type="client"/>
+	
+	<file src="bevmangar_law2.col" type="client"/>
+	<file src="bevmangar_law2.dff" type="client"/>
+	
+	<file src="bevmans01_la.txd" type="client"/>
+	
+	<file src="bigfactory_sfse.col" type="client"/>
+	<file src="bigfactory_sfse.dff" type="client"/>
+	
+	<file src="block1.col" type="client"/>
+	<file src="block1.dff" type="client"/>
+	
+	<file src="block2.col" type="client"/>
+	<file src="block2.dff" type="client"/>
+	
+	<file src="block3.col" type="client"/>
+	<file src="block3.dff" type="client"/>
+	
+	<file src="block4.col" type="client"/>
+	<file src="block4.dff" type="client"/>
+	
+	<file src="block5.col" type="client"/>
+	<file src="block5.dff" type="client"/>
+	
+	<file src="block6.col" type="client"/>
+	<file src="block6.dff" type="client"/>
+	
+	<file src="block7.col" type="client"/>
+	<file src="block7.dff" type="client"/>
+	
+	<file src="block8.col" type="client"/>
+	<file src="block8.dff" type="client"/>
+	
+	<file src="block9.col" type="client"/>
+	<file src="block9.dff" type="client"/>
+	
+	<file src="block10.col" type="client"/>
+	<file src="block10.dff" type="client"/>
+	
+	<file src="block11.col" type="client"/>
+	<file src="block11.dff" type="client"/>
+	
+	<file src="block12.col" type="client"/>
+	<file src="block12.dff" type="client"/>
+	
+	<file src="block13.col" type="client"/>
+	<file src="block13.dff" type="client"/>
+	
+	<file src="block14.col" type="client"/>
+	<file src="block14.dff" type="client"/>
+	
+	<file src="block15.col" type="client"/>
+	<file src="block15.dff" type="client"/>
+	
+	<file src="block16.col" type="client"/>
+	<file src="block16.dff" type="client"/>
+	
+	<file src="block17.col" type="client"/>
+	<file src="block17.dff" type="client"/>
+	
+	<file src="block18.col" type="client"/>
+	<file src="block18.dff" type="client"/>
+	
+	<file src="block19.col" type="client"/>
+	<file src="block19.dff" type="client"/>
+	
+	<file src="block20.col" type="client"/>
+	<file src="block20.dff" type="client"/>
+	
+	<file src="block21.col" type="client"/>
+	<file src="block21.dff" type="client"/>
+	
+	<file src="block22.col" type="client"/>
+	<file src="block22.dff" type="client"/>
+	
+	<file src="block23.col" type="client"/>
+	<file src="block23.dff" type="client"/>
+	
+	<file src="block24.col" type="client"/>
+	<file src="block24.dff" type="client"/>
+	
+	<file src="block25.col" type="client"/>
+	<file src="block25.dff" type="client"/>
+	
+	<file src="block26.col" type="client"/>
+	<file src="block26.dff" type="client"/>
+	
+	<file src="block27.col" type="client"/>
+	<file src="block27.dff" type="client"/>
+	
+	<file src="block28.col" type="client"/>
+	<file src="block28.dff" type="client"/>
+	
+	<file src="block29.col" type="client"/>
+	<file src="block29.dff" type="client"/>
+	
+	<file src="block30.col" type="client"/>
+	<file src="block30.dff" type="client"/>
+	
+	<file src="block31.col" type="client"/>
+	<file src="block31.dff" type="client"/>
+	
+	<file src="block32.col" type="client"/>
+	<file src="block32.dff" type="client"/>
+	
+	<file src="block33.col" type="client"/>
+	<file src="block33.dff" type="client"/>
+	
+	<file src="block34.col" type="client"/>
+	<file src="block34.dff" type="client"/>
+	
+	<file src="block36.col" type="client"/>
+	<file src="block36.dff" type="client"/>
+	
+	<file src="block37.col" type="client"/>
+	<file src="block37.dff" type="client"/>
+	
+	<file src="block38.col" type="client"/>
+	<file src="block38.dff" type="client"/>
+	
+	<file src="block39.col" type="client"/>
+	<file src="block39.dff" type="client"/>
+	
+	<file src="block40.col" type="client"/>
+	<file src="block40.dff" type="client"/>
+	
+	<file src="build1.col" type="client"/>
+	<file src="build1.dff" type="client"/>
+	
+	<file src="build3.col" type="client"/>
+	<file src="build3.dff" type="client"/>
+	
+	<file src="build4.col" type="client"/>
+	<file src="build4.dff" type="client"/>
+	
+	<file src="build_pick.col" type="client"/>
+	<file src="build_pick.dff" type="client"/>
+	
+	<file src="capitol_lawn.txd" type="client"/>
+	
+	<file src="capitrec1_lawn.col" type="client"/>
+	<file src="capitrec1_lawn.dff" type="client"/>
+	
+	<file src="chemgrnd_las2.txd" type="client"/>
+	
+	<file src="churchsfe.txd" type="client"/>
+	<file src="church_sfe.col" type="client"/>
+	<file src="church_sfe.dff" type="client"/>
+	
+	<file src="cityhall_sfs.col" type="client"/>
+	<file src="cityhall_sfs.dff" type="client"/>
+	<file src="cityhall_sfs.txd" type="client"/>
+	
+	<file src="civic01_lan.txd" type="client"/>
+	<file src="civic04_lan.txd" type="client"/>
+	
+	<file src="cj_bathroom.txd" type="client"/>
+	
+	<file src="cj_beds.txd" type="client"/>
+	
+	<file src="cj_bunk_bed1.col" type="client"/>
+	<file src="cj_bunk_bed1.dff" type="client"/>
+	
+	<file src="cj_office.txd" type="client"/>
+	
+	<file src="cj_toilet3.col" type="client"/>
+	<file src="cj_toilet3.dff" type="client"/>
+	
+	<file src="colmansion.txd" type="client"/>
+	
+	<file src="copbits_sfn.col" type="client"/>
+	<file src="copbits_sfn.dff" type="client"/>
+	
+	<file src="crackpost.col" type="client"/>
+	<file src="crackpost.dff" type="client"/>
+	<file src="crackpost.txd" type="client"/>
+	
+	<file src="cw_farm.txd" type="client"/>
+	
+	<file src="cxrf_indstuff.txd" type="client"/>
+	<file src="cxrf_watertwr.col" type="client"/>
+	<file src="cxrf_watertwr.dff" type="client"/>
+	
+	<file src="des_berg.col" type="client"/>
+	<file src="des_berg.dff" type="client"/>
+	<file src="des_berg.txd" type="client"/>
+	
+	<file src="doontoon55.col" type="client"/>
+	<file src="doontoon55.dff" type="client"/>
+	<file src="doontoon56.dff" type="client"/>
+	
+	<file src="door1.txd" type="client"/>
+	
+	<file src="downtown.txd" type="client"/>
+	
+	<file src="dt_shops2.txd" type="client"/>
+	
+	<file src="elecstionv_sfs.col" type="client"/>
+	<file src="elecstionv_sfs.dff" type="client"/>
+	
+	<file src="factory_sfse.txd" type="client"/>
+	
+	<file src="farmhouse.col" type="client"/>
+	<file src="farmhouse.dff" type="client"/>
+	<file src="farmhouse.txd" type="client"/>
+	
+	<file src="firehouse_sfs.col" type="client"/>
+	<file src="firehouse_sfs.dff" type="client"/>
+	<file src="firehouse_sfse.txd" type="client"/>
+	
+	<file src="flghtschl01_lvs.col" type="client"/>
+	<file src="flghtschl01_lvs.dff" type="client"/>
+	
+	<file src="gaz22_law.col" type="client"/>
+	<file src="gaz22_law.dff" type="client"/>
+	
+	<file src="gazlaw3.txd" type="client"/>
+	
+	<file src="genhotelsave.txd" type="client"/>
+	
+	<file src="genmotel2_sv.col" type="client"/>
+	<file src="genmotel2_sv.dff" type="client"/>
+	
+	<file src="gen_doorext10.dff" type="client"/>
+	
+	<file src="glenpark7_lae.txd" type="client"/>
+	
+	<file src="haightshop_sfs02.col" type="client"/>
+	<file src="haightshop_sfs02.dff" type="client"/>
+	
+	<file src="hillhouse01_la.col" type="client"/>
+	<file src="hillhouse01_la.dff" type="client"/>
+	
+	<file src="hillhouse02_la.col" type="client"/>
+	<file src="hillhouse02_la.dff" type="client"/>
+	
+	<file src="hillhouse10_la.col" type="client"/>
+	<file src="hillhouse10_la.dff" type="client"/>
+	<file src="hillhouse14_la.txd" type="client"/>
+	
+	<file src="hillhousex_la10_12.txd" type="client"/>
+	
+	<file src="hillhousex_la1_2.txd" type="client"/>
+	
+	<file src="hotelexterior1_lan.col" type="client"/>
+	<file src="hotelexterior1_lan.dff" type="client"/>
+	
+	<file src="hotelgen_sv.col" type="client"/>
+	<file src="hotelgen_sv.dff" type="client"/>
+	
+	<file src="house.txd" type="client"/>
+	
+	<file src="house1.col" type="client"/>
+	<file src="house1.dff" type="client"/>
+	
+	<file src="house2.col" type="client"/>
+	<file src="house2.dff" type="client"/>
+	<file src="house2.txd" type="client"/>
+	
+	<file src="house_rar.col" type="client"/>
+	<file src="house_rar.dff" type="client"/>
+	
+	<file src="imy_roomfurn12_sv.col" type="client"/>
+	<file src="imy_roomfurn12_sv.dff" type="client"/>
+	
+	<file src="ladtbuild6_lan2.col" type="client"/>
+	<file src="ladtbuild6_lan2.dff" type="client"/>
+	
+	<file src="laeskatetube1.col" type="client"/>
+	<file src="laeskatetube1.dff" type="client"/>
+	
+	<file src="lanbloki.txd" type="client"/>
+	
+	<file src="lanstap.col" type="client"/>
+	<file src="lanstap.dff" type="client"/>
+	
+	<file src="las2_brigtower.col" type="client"/>
+	<file src="las2_brigtower.dff" type="client"/>
+	
+	<file src="laskyscrap4_lan.col" type="client"/>
+	<file src="laskyscrap4_lan.dff" type="client"/>
+	
+	<file src="lasxrefdock.txd" type="client"/>
+	
+	<file src="lesenka99.col" type="client"/>
+	<file src="lesenka99.dff" type="client"/>
+	
+	<file src="LOD22_law.dff" type="client"/>
+	
+	<file src="LOD2_brigtower.dff" type="client"/>
+	
+	<file src="LODach_police.dff" type="client"/>
+	
+	<file src="LODarpark01_lvs.dff" type="client"/>
+	
+	<file src="LODasxrexhse03.dff" type="client"/>
+	<file src="LODasxrexhse05.dff" type="client"/>
+	<file src="LODasxrexhse09.dff" type="client"/>
+	
+	<file src="LODaw2husjm4_law2.dff" type="client"/>
+	
+	<file src="LODa_down.dff" type="client"/>
+	
+	<file src="LODbits_sfn.dff" type="client"/>
+	
+	<file src="LODbloka_lan.dff" type="client"/>
+	
+	<file src="LODbunk_bed1.dff" type="client"/>
+	
+	<file src="LODck1.dff" type="client"/>
+	
+	<file src="LODck2.dff" type="client"/>
+	
+	<file src="LODck3.dff" type="client"/>
+	
+	<file src="LODck4.dff" type="client"/>
+	
+	<file src="LODck5.dff" type="client"/>
+	
+	<file src="LODck6.dff" type="client"/>
+	
+	<file src="LODck7.dff" type="client"/>
+	
+	<file src="LODck8.dff" type="client"/>
+	
+	<file src="LODck9.dff" type="client"/>
+	
+	<file src="LODck10.dff" type="client"/>
+	
+	<file src="LODck11.dff" type="client"/>
+	
+	<file src="LODck12.dff" type="client"/>
+	
+	<file src="LODck13.dff" type="client"/>
+	
+	<file src="LODck14.dff" type="client"/>
+	
+	<file src="LODck15.dff" type="client"/>
+	
+	<file src="LODck16.dff" type="client"/>
+	
+	<file src="LODck17.dff" type="client"/>
+	
+	<file src="LODck18.dff" type="client"/>
+	
+	<file src="LODck19.dff" type="client"/>
+	
+	<file src="LODck20.dff" type="client"/>
+	
+	<file src="LODck21.dff" type="client"/>
+	
+	<file src="LODck22.dff" type="client"/>
+	
+	<file src="LODck23.dff" type="client"/>
+	
+	<file src="LODck24.dff" type="client"/>
+	
+	<file src="LODck25.dff" type="client"/>
+	
+	<file src="LODck26.dff" type="client"/>
+	
+	<file src="LODck27.dff" type="client"/>
+	
+	<file src="LODck28.dff" type="client"/>
+	
+	<file src="LODck29.dff" type="client"/>
+	
+	<file src="LODck30.dff" type="client"/>
+	
+	<file src="LODck31.dff" type="client"/>
+	
+	<file src="LODck32.dff" type="client"/>
+	
+	<file src="LODck33.dff" type="client"/>
+	
+	<file src="LODck34.dff" type="client"/>
+	
+	<file src="LODck36.dff" type="client"/>
+	
+	<file src="LODck37.dff" type="client"/>
+	
+	<file src="LODck38.dff" type="client"/>
+	
+	<file src="LODck39.dff" type="client"/>
+	
+	<file src="LODck40.dff" type="client"/>
+	
+	<file src="LODckpost.dff" type="client"/>
+	
+	<file src="LODcstionv_sfs.dff" type="client"/>
+	
+	<file src="LODehouse_sfs.dff" type="client"/>
+	
+	<file src="LODelexterior1_lan.dff" type="client"/>
+	
+	<file src="LODenka99.dff" type="client"/>
+	
+	<file src="LODerlan2.dff" type="client"/>
+	
+	<file src="LODfactory_sfse.dff" type="client"/>
+	
+	<file src="LODf_watertwr.dff" type="client"/>
+	
+	<file src="LODg1.dff" type="client"/>
+	
+	<file src="LODghtshop_sfs02.dff" type="client"/>
+	
+	<file src="LODguard_sfn01.dff" type="client"/>
+	
+	<file src="LODhtschl01_lvs.dff" type="client"/>
+	
+	<file src="LODicon04_sfs.dff" type="client"/>
+	
+	<file src="LODind_build06.dff" type="client"/>
+	
+	<file src="LODitrec1_lawn.dff" type="client"/>
+	
+	<file src="LODkyscrap4_lan.dff" type="client"/>
+	
+	<file src="LODld1.dff" type="client"/>
+	
+	<file src="LODld3.dff" type="client"/>
+	
+	<file src="LODld4.dff" type="client"/>
+	
+	<file src="LODld_pick.dff" type="client"/>
+	
+	<file src="LODlhouse01_la.dff" type="client"/>
+	
+	<file src="LODlhouse02_la.dff" type="client"/>
+	
+	<file src="LODlhouse10_la.dff" type="client"/>
+	
+	<file src="LODman3_law2.dff" type="client"/>
+	
+	<file src="LODmangar_law2.dff" type="client"/>
+	
+	<file src="LODmhouse.dff" type="client"/>
+	
+	<file src="LODockrane_las.dff" type="client"/>
+	
+	<file src="LODoldbarn03.dff" type="client"/>
+	
+	<file src="LODolith_sfe.dff" type="client"/>
+	
+	<file src="LODor1.dff" type="client"/>
+	
+	<file src="LODor2.dff" type="client"/>
+	
+	<file src="LODor3.dff" type="client"/>
+	
+	<file src="LODor4.dff" type="client"/>
+	
+	<file src="LODo_track.dff" type="client"/>
+	
+	<file src="LODpka1.dff" type="client"/>
+	
+	<file src="LODpka2.dff" type="client"/>
+	
+	<file src="LODpka3.dff" type="client"/>
+	
+	<file src="LODpka4.dff" type="client"/>
+	
+	<file src="LODpobj_sfs02.dff" type="client"/>
+	
+	<file src="LODppie1_sfs.dff" type="client"/>
+	
+	<file src="LODppie2_sfs.dff" type="client"/>
+	
+	<file src="LODrch_sfe.dff" type="client"/>
+	
+	<file src="LODse1.dff" type="client"/>
+	
+	<file src="LODse2.dff" type="client"/>
+	
+	<file src="LODsion4.dff" type="client"/>
+	
+	<file src="LODskatetube1.dff" type="client"/>
+	
+	<file src="LODstap.dff" type="client"/>
+	
+	<file src="LODsuppsxc.dff" type="client"/>
+	
+	<file src="LODtbuild6_lan2.dff" type="client"/>
+	
+	<file src="LODyhall_sfs.dff" type="client"/>
+	
+	<file src="LOD_berg.dff" type="client"/>
+	
+	<file src="LOD_colmansn.dff" type="client"/>
+	
+	<file src="LOD_oiltank01.dff" type="client"/>
+	
+	<file src="LOD_roofmast.dff" type="client"/>
+	
+	<file src="LOD_silo04.dff" type="client"/>
+	
+	<file src="mansion4.col" type="client"/>
+	
+	<file src="mansion4.dff" type="client"/>
+	
+	<file src="med_office2_desk_2.col" type="client"/>
+	<file src="med_office2_desk_2.dff" type="client"/>
+	
+	<file src="med_office_chair.col" type="client"/>
+	<file src="med_office_chair.dff" type="client"/>
+	
+	<file src="monlith_sfe.txd" type="client"/>
+	<file src="monolith_sfe.col" type="client"/>
+	<file src="monolith_sfe.dff" type="client"/>
+	
+	<file src="moto_track.col" type="client"/>
+	<file src="moto_track.dff" type="client"/>
+	
+	<file src="mrk_bed02_sv.col" type="client"/>
+	<file src="mrk_bed02_sv.dff" type="client"/>
+	
+	<file src="nbeach_police.col" type="client"/>
+	<file src="nbeach_police.dff" type="client"/>
+	
+	<file src="nb_police.txd" type="client"/>
+	
+	<file src="new_colmansn.col" type="client"/>
+	<file src="new_colmansn.dff" type="client"/>
+	
+	<file src="nucarpark.txd" type="client"/>
+	<file src="nucarpark01_lvs.col" type="client"/>
+	<file src="nucarpark01_lvs.dff" type="client"/>
+	
+	<file src="nwlaw2husjm4_law2.col" type="client"/>
+	<file src="nwlaw2husjm4_law2.dff" type="client"/>
+	
+	<file src="offbloka_lan.col" type="client"/>
+	<file src="offbloka_lan.dff" type="client"/>
+	
+	<file src="redockrane_las.col" type="client"/>
+	<file src="redockrane_las.dff" type="client"/>
+	
+	<file src="refinery.txd" type="client"/>
+	
+	<file src="ref_oiltank01.col" type="client"/>
+	<file src="ref_oiltank01.dff" type="client"/>
+	
+	<file src="resource.txd" type="client"/>
+	
+	<file src="savegenmotel.txd" type="client"/>
+	
+	<file src="scum2_sfs.txd" type="client"/>
+	<file src="scum_sfse.txd" type="client"/>
+	
+	<file src="seadno.col" type="client"/>
+	<file src="seadno.dff" type="client"/>
+	
+	<file src="sfn_helipad.txd" type="client"/>
+	
+	<file src="sfroofshit.txd" type="client"/>
+	
+	<file src="shoppie1_sfs.col" type="client"/>
+	<file src="shoppie1_sfs.dff" type="client"/>
+	
+	<file src="shoppie2_sfs.col" type="client"/>
+	<file src="shoppie2_sfs.dff" type="client"/>
+	
+	<file src="shopszz_sfse.txd" type="client"/>
+	<file src="shops_sfse.txd" type="client"/>
+	
+	<file src="silicon04_sfs.col" type="client"/>
+	<file src="silicon04_sfs.dff" type="client"/>
+	
+	<file src="silicon_sfxrf.txd" type="client"/>
+	
+	<file src="sjmoldbarn03.col" type="client"/>
+	<file src="sjmoldbarn03.dff" type="client"/>
+	
+	<file src="skyscr1_lan2.txd" type="client"/>
+	
+	<file src="stolenbuild02.txd" type="client"/>
+	<file src="stolenbuild03.txd" type="client"/>
+	
+	<file src="subind_build06.col" type="client"/>
+	<file src="subind_build06.dff" type="client"/>
+	
+	<file src="subuild1.txd" type="client"/>
+	
+	<file src="sub_villas.txd" type="client"/>
+	
+	<file src="sw_farm1.txd" type="client"/>
+	
+	<file src="tempobj_sfs02.col" type="client"/>
+	<file src="tempobj_sfs02.dff" type="client"/>
+	
+	<file src="towerlan2.col" type="client"/>
+	<file src="towerlan2.dff" type="client"/>
+	
+	<file src="transformer_sfs.txd" type="client"/>
+	
+	<file src="tropka1.col" type="client"/>
+	<file src="tropka1.dff" type="client"/>
+	
+	<file src="tropka2.col" type="client"/>
+	<file src="tropka2.dff" type="client"/>
+	
+	<file src="tropka3.col" type="client"/>
+	<file src="tropka3.dff" type="client"/>
+	<file src="tropka3.txd" type="client"/>
+	
+	<file src="tropka4.col" type="client"/>
+	<file src="tropka4.dff" type="client"/>
+	
+	<file src="vegashse5.txd" type="client"/>
+	
+	<file src="vegashse7.txd" type="client"/>
+	
+	<file src="vegasxrexhse03.col" type="client"/>
+	<file src="vegasxrexhse03.dff" type="client"/>
+	
+	<file src="vegasxrexhse05.col" type="client"/>
+	<file src="vegasxrexhse05.dff" type="client"/>
+	
+	<file src="vegasxrexhse09.col" type="client"/>
+	<file src="vegasxrexhse09.dff" type="client"/>
+	
+	<file src="vgsswarhse04.txd" type="client"/>
+	
+	<file src="weefarmcuntw.txd" type="client"/>
+	
+	<file src="wt6suppsxc.col" type="client"/>
+	<file src="wt6suppsxc.dff" type="client"/>
+	
+	<file src="zabor1.col" type="client"/>
+	<file src="zabor1.dff" type="client"/>
+	
+	<file src="zabor2.col" type="client"/>
+	<file src="zabor2.dff" type="client"/>
+	
+	<file src="zabor3.col" type="client"/>
+	<file src="zabor3.dff" type="client"/>
+	
+	<file src="zabor4.col" type="client"/>
+	<file src="zabor4.dff" type="client"/>
+	
+	<file src="zona_down.col" type="client"/>
+	<file src="zona_down.dff" type="client"/>
+	<file src="zona_down.txd" type="client"/>
+	
+	<file src="zona_down2.col" type="client"/>
+	<file src="zona_down2.dff" type="client"/>
+</meta>
